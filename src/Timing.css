@@ -1,0 +1,6 @@
+.t-parent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: cadetblue;
+}

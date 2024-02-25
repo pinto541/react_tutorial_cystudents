@@ -1,0 +1,10 @@
+.h-parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.h-text p{
+max-width: 700px;
+text-align: justify;
+}

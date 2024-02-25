@@ -1,0 +1,51 @@
+.all1{
+    display:flex; 
+    flex-direction: row;
+    justify-content:space-evenly;
+ 
+   background-color: antiquewhite;
+   height: 1000px;
+   
+}
+
+.left1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+
+
+
+
+.left1 h1{
+    font-size: 60px;
+    color: navy;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+    
+
+}
+
+
+.h1{
+    margin-left: 10px;
+    border-radius: 30px;
+    width: 150px;
+    height: 40px;
+    background-color: chocolate;
+    border:1px solid black
+   
+}
+
+.h1:hover{
+    background-color: aqua;
+    
+}
+
+.button1{
+   
+}

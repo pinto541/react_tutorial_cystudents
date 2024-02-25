@@ -1,0 +1,8 @@
+.c-parent{
+    background-color: black;
+}
+
+.c-parent p{
+    color: aliceblue;
+    text-align: center;
+}
